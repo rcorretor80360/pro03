@@ -34,10 +34,10 @@ Button_C4D14438_CA50_EB73_41CB_71DBEEDE30BF.label = Proteção de Dados
 Button_C4D14438_CA50_EB73_41CB_71DBEEDE30BF.pressedLabel = Proteção de Dados
 Button_C4D14438_CA50_EB73_41CB_71DBEEDE30BF_mobile.label = Proteção de Dados
 Button_C4D14438_CA50_EB73_41CB_71DBEEDE30BF_mobile.pressedLabel = Proteção de Dados
-Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C.label = Riscos e Insidentes
-Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C.pressedLabel = Riscos e Insidentes
-Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C_mobile.label = Riscos e Insidentes
-Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C_mobile.pressedLabel = Riscos e Insidentes
+Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C.label = Riscos e Incidentes
+Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C.pressedLabel = Riscos e Incidentes
+Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C_mobile.label = Riscos e Incidentes
+Button_C547A8DE_CA50_DB2E_41E5_2A09080B628C_mobile.pressedLabel = Riscos e Incidentes
 Button_C570B303_CA53_2D16_41E7_34CC26E86BA2.label = Inteligência Artificial
 Button_C570B303_CA53_2D16_41E7_34CC26E86BA2.pressedLabel = Inteligência Artificial
 Button_C570B303_CA53_2D16_41E7_34CC26E86BA2_mobile.label = Inteligência Artificial
@@ -51,13 +51,13 @@ HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-ali
 
 ### Title
 panorama_2108A8A3_2A12_DA6D_41B5_CC89EC4DD01D.label = 7
-panorama_2108C0E6_2A12_CBF7_41A9_0CECE324CE77.label = 8
 panorama_2108CFC8_2A12_F63A_41A6_00A441822FE1.label = 6
-panorama_2108D640_2A12_D62A_41B8_14C03ED9987C.label = 3
 panorama_2108F745_2A12_F635_41B2_54382D04C1C3.label = 5
-panorama_21092EAD_2A12_D67A_41BB_AFACB20E5230.label = 4
 panorama_210D8DAC_2A12_BA7A_41B2_BD7D99B7461E.label = 2
 panorama_222DC362_3690_87EB_41C2_FBA22CF7A80C.label = 1
+panorama_78339C19_688D_51A7_41D6_B5CEB7AF680A.label = 8
+panorama_78DDCFD7_689F_EEAC_41C3_F07EBF1505F7.label = 3
+panorama_78E09CF5_689F_B26F_41CB_3A7F3D23ADDC.label = 4
 video_26BE7B12_2A16_BE2E_41C0_C3D62F111EB4.label = laura_verde
 video_3A0B20BC_3671_815F_41BA_DC5E9C5ADB6C.label = bastidores
 video_3A0B897E_3670_83DB_41C1_7EA7F849CECF.label = riscos_insi
@@ -66,17 +66,18 @@ video_3A0F788A_3671_813B_41C3_C981FFFC501C.label = direitos_ti
 video_3A1BB0F0_3670_82E7_4195_3EAEE10FF336.label = sessao_elei
 video_3AD15D93_3671_8329_41A6_6AC2C6502696.label = dados_se
 video_3D859C81_3671_8129_41C4_F503A6C95878.label = dados_pe
-video_5242EEFE_5EAD_DCD6_41D0_F579CCAB0920.label = 2-DADOS PESSOAIS
-video_52572606_5EAD_4F36_41BA_651A386FBFA4.label = 3-DADOS SENSÍVEIS
-video_529F0975_5E7A_0D3F_41B7_1EA6A4C50C59.label = 7-INTELIGÊNCIA ARTIFICIAL
-video_52A1C82C_5E7A_0B2D_4177_D0E3F82A1D58.label = 6-RISCOS E INCIDENTES
-video_52A4E941_5E7A_0D57_41D7_36CE717E8C9F.label = 5-BASTIDORES DA PROTEÇÃO DE DADOS
-video_5309C9D2_5EAD_452E_41A8_9ED54E46BC12.label = 4-DIREITOS DO TITULAR
-video_538C590B_5E76_0AEB_41B0_A33BE419F1BB.label = 8-SEÇÃO ELEITORAL
+video_4A315F50_6897_6FA5_41C0_CF70D338A36E.label = 2-DADOS PESSOAIS
+video_4A981189_6897_72A4_41D2_C3E3BF7E59E4.label = 6-RISCOS E INCIDENTES
+video_4A9F0942_6894_D3A5_41B8_079D0138A3E4.label = 8-SEÇÃO ELEITORAL
+video_4AA4E94E_6897_B3BD_41CD_0DF3F8A5DE46.label = 5-BASTIDORES DA PROTEÇÃO DE DADOS
+video_4AAA0B92_6897_F6A4_41D9_8A2A0674023A.label = 4-DIREITOS DO TITULAR
+video_4AAA7DA8_6897_B2E4_41D7_A9C289467CAD.label = 3-DADOS SENSÍVEIS
+video_4AAC8FCF_6894_AEBC_41D8_A91678914834.label = 7-INTELIGÊNCIA ARTIFICIAL
 
 ## Action
 
 ### URL
+LinkBehaviour_482F1496_688F_B2AC_41C9_96F8521122C1.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
 LinkBehaviour_70447CEB_6041_5300_41AB_EA0410B28C45.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
 LinkBehaviour_70453CEB_6041_5300_41BD_F731ECD99861.source = https://twitter.com/trebahia
 LinkBehaviour_70475CEB_6041_5300_41B4_515184482EA4.source = https://www.flickr.com/photos/trebahia
@@ -86,6 +87,7 @@ LinkBehaviour_704B5CEB_6041_5300_41AA_7D4428C60B1E.source = https://www.instagra
 LinkBehaviour_704EFCEB_6041_5300_41D2_B0F73DBD158E.source = https://www.youtube.com/tvtreba
 LinkBehaviour_71F4D509_6041_3D00_41CA_B8DF110A75DD.source = https://www.youtube.com/tvtreba
 LinkBehaviour_72137B26_6043_5500_41C3_B750C847EF50.source = https://www.youtube.com/tvtreba
+LinkBehaviour_7750FA64_688B_566C_41C9_BB64FD8D2A01.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
 LinkBehaviour_84D21CA6_99E2_33C8_41BA_943DD978AC61.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
 LinkBehaviour_865825B3_99FD_DDC8_41AC_3848D02695D7.source = https://twitter.com/trebahia
 LinkBehaviour_86DDBF4D_99FE_2D5B_41E0_AE3D835C3C94.source = https://www.instagram.com/trebahia
