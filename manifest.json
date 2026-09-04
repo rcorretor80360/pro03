@@ -1,7 +1,8 @@
 {
+ "theme_color": "#133F76",
  "name": "Tribunal Regional Eleitoral da Bahia - Espaço de Proteção de Dados 360°",
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#133F76",
  "background_color": "#133F76"
 }
